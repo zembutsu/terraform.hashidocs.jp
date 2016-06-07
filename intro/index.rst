@@ -47,7 +47,7 @@ Terraform が管理できるインフラとは、計算インスタンス、ス�
 
 .. Examples work best to showcase Terraform. Please see the use cases.
 
-Terraform が効果を発揮する場面の例は、 :doc:`使用例 <use-cases.html>` をご覧ください。
+Terraform が効果を発揮する場面の例は、 :doc:`使用例 <use-cases>` をご覧ください。
 
 .. The key features of Terraform are:
 
@@ -82,6 +82,7 @@ Terraform の主な機能：
    :hidden:
 
    use-cases.rst
+   vs/index.rst
    getting-started.rst
 
 .. seealso:: 
