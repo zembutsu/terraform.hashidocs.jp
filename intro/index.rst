@@ -83,7 +83,7 @@ Terraform の主な機能：
 
    use-cases.rst
    vs/index.rst
-   getting-started.rst
+   getting-started/install.rst
 
 .. seealso:: 
    Introduction

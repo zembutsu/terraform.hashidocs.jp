@@ -25,10 +25,10 @@ Terraform と他の何らかのシステムを比較するには、左のナビ�
 .. toctree::
    :hidden:
 
-   chef-puppet.rst
-   cloudformation.rst
-   boto.rst
-   custom.rst
+   Chef、Puppet等 <chef-puppet.rst>
+   CloudFormation、Heat等 <cloudformation.rst>
+   Boto、Fog 等 <boto.rst>
+   カスタム・ソリューション <custom.rst>
 
 .. seealso:: 
    Terraform vs. Other Software
