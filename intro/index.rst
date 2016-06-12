@@ -78,12 +78,6 @@ Terraform の主な機能：
 
 :doc:`Terraform 利用例 <use-cases>` では、様々な Terraform の利用例が分かります。そして :doc:`ほかのソフトウェアと Terraform の比較 <vs/index>` では、既存のインフラ上にどのように適用するか分かります。最後は前身のため、 :doc:`導入ガイド <getting-started/install>` で Terraform を実際のインフラ上で使い、どのように動作するかを理解します。
 
-.. toctree::
-   :hidden:
-
-   use-cases.rst
-   vs/index.rst
-   getting-started/install.rst
 
 .. seealso:: 
    Introduction

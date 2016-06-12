@@ -22,9 +22,16 @@ Terraform
 
 .. toctree::
    :maxdepth: 1
+   :caption: ダウンロード
+
+   downloads.rst
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Terraform 入門
 
-   Terraform とは？<intro/index.rst>
+   Terraform とは？<intro/toc.rst>
 
 
 .. seealso:: 
