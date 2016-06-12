@@ -10,9 +10,9 @@
 
 .. _terraform-vs-custom-solutions:
 
-=======================================
+==================================================
 Terraform と カスタム・ソリューションの比較
-=======================================
+==================================================
 
 .. Most organizations start by manually managing infrastructure through simple scripts or web-based interfaces. As the infrastructure grows, any manual approach to management becomes both error-prone and tedious, and many organizations begin to home-roll tooling to help automate the mechanical processes involved.
 
